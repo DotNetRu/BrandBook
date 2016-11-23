@@ -19,6 +19,7 @@
 | [![Two Capitals corset](./twocapitals/twocapitals-corset-200.png)](./twocapitals/twocapitals-corset-800.png) | Две столицы в корсете |
 | [![Two Capitals heart](./twocapitals/twocapitals-heart-200.png)](./twocapitals/twocapitals-heart-800.png) | Две столицы в сердце |
 | [![Two Capitals puzzle](./twocapitals-puzzle/twocapitals-puzzle-200.png)](twocapitals-puzzle) | Две столицы в мозайке |
-| [![Two Capitals with VisualStudio logo](./twocapitals/twocapitals-vs-200.png)](./twocapitals/twocapitals-vs-800.png) | Две столицы с логотипом VisualStudio |
+| [![Two Capitals with VisualStudio logo](./twocapitals-vs/twocapitals-vs-200.png)](twocapitals-vs) | Две столицы с логотипом VisualStudio |
+| [![Two Capitals with VisualStudio logo](./twocapitals-vs-bordered/twocapitals-vs-br-200.png)](twocapitals-vs-bordered) | Две столицы с логотипом VisualStudio с белой рамкой |
 | [![Two Capitals spherical yin and yang](./twocapitals/twocapitals-yy-200.png)](./twocapitals/twocapitals-yy-800.png) | Две столицы как объёмные инь и ян |
 | [![Two Capitals flat yin and yang](./twocapitals/twocapitals-yy-flat-200.png)](./twocapitals/twocapitals-yy-flat-800.png) | Две столицы как плоские инь и ян |
