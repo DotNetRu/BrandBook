@@ -10,6 +10,12 @@
 | [![SpbDotNet bordered squared logo](./spbdotnet-squared-logo-bordered/spbdotnet-squared-logo-br-200.png)](spbdotnet-squared-logo-bordered) | Логотип SpbDotNet с белой рамкой |
 | [![MskDotNet squared logo](./mskdotnet-squared-logo/mskdotnet-squared-logo-200.png)](mskdotnet-squared-logo) | Логотип MskDotNet |
 | [![MskDotNet bordered squared logo](./mskdotnet-squared-logo-bordered/mskdotnet-squared-logo-br-200.png)](mskdotnet-squared-logo-bordered) | Логотип MskDotNet с белой рамкой |
+| [![EkbDotNet squared logo](./ekbdotnet-squared-logo/ekbdotnet-squared-logo-200.png)](ekbdotnet-squared-logo) | Логотип EkbDotNet |
+| [![EkbDotNet bordered squared logo](./ekbdotnet-squared-logo-bordered/ekbdotnet-squared-logo-br-200.png)](ekbdotnet-squared-logo-bordered) | Логотип EkbDotNet с белой рамкой |
+| [![KryDotNet squared logo](./krydotnet-squared-logo/krydotnet-squared-logo-200.png)](krydotnet-squared-logo) | Логотип KryDotNet |
+| [![KryDotNet bordered squared logo](./krydotnet-squared-logo-bordered/krydotnet-squared-logo-br-200.png)](krydotnet-squared-logo-bordered) | Логотип KryDotNet с белой рамкой |
+| [![SarDotNet squared logo](./sardotnet-squared-logo/sardotnet-squared-logo-200.png)](sardotnet-squared-logo) | Логотип SarDotNet |
+| [![SarDotNet bordered squared logo](./sardotnet-squared-logo-bordered/sardotnet-squared-logo-br-200.png)](sardotnet-squared-logo-bordered) | Логотип SarDotNet с белой рамкой |
 
 ## Две столицы
 
