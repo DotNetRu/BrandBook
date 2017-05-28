@@ -4,6 +4,8 @@
 
 ## Логотипы
 
+Логотипы с белой рамкой лучше использовать для тёмных фонов. Без рамки хорошо подходят для светлого фона.
+
 | Предпросмотр        | Информация         |
 | ------------------- |--------------------|
 | [![SpbDotNet squared logo](./spbdotnet-squared-logo/spbdotnet-squared-logo-200.png)](spbdotnet-squared-logo) | Логотип SpbDotNet |
@@ -18,6 +20,8 @@
 | [![SarDotNet bordered squared logo](./sardotnet-squared-logo-bordered/sardotnet-squared-logo-br-200.png)](sardotnet-squared-logo-bordered) | Логотип SarDotNet с белой рамкой |
 
 ## Две столицы
+
+Дизайнерские этюды на тему SpbDotNet и MskDotNet сообществ.
 
 | Предпросмотр        | Информация         |
 | ------------------- |--------------------|
