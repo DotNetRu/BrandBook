@@ -9,6 +9,7 @@
 | Предпросмотр        | Информация         |
 | ------------------- |--------------------|
 | [![DotNetRu squared logo](./dotnetru-squared-logo/dotnetru-squared-logo-200.png)](dotnetru-squared-logo) | Логотип DotNetRu |
+| [![DotNetRu bordered squared logo](./dotnetru-squared-logo-bordered/dotnetru-squared-logo-br-200.png)](dotnetru-squared-logo-bordered) | Логотип DotNetRu с белой рамкой |
 | [![SpbDotNet squared logo](./spbdotnet-squared-logo/spbdotnet-squared-logo-200.png)](spbdotnet-squared-logo) | Логотип SpbDotNet |
 | [![SpbDotNet bordered squared logo](./spbdotnet-squared-logo-bordered/spbdotnet-squared-logo-br-200.png)](spbdotnet-squared-logo-bordered) | Логотип SpbDotNet с белой рамкой |
 | [![MskDotNet squared logo](./mskdotnet-squared-logo/mskdotnet-squared-logo-200.png)](mskdotnet-squared-logo) | Логотип MskDotNet |
