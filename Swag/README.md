@@ -1,10 +1,10 @@
 # DotNetRu пожитки
 
-Графические оформления используемые для украшения пожитков (майки, наклейки, кружки и т.д.)
+Графические оформления используемые для украшения пожитков (майки, наклейки, кружки и т.д.). Логотипы с белой рамкой лучше использовать для тёмных фонов. Без рамки хорошо подходят для светлого фона.
 
 ## Логотипы
 
-Логотипы с белой рамкой лучше использовать для тёмных фонов. Без рамки хорошо подходят для светлого фона.
+Основные логотипы сообществ.
 
 | Предпросмотр        | Информация         |
 | ------------------- |--------------------|
@@ -35,3 +35,12 @@
 | [![Two Capitals with VisualStudio logo](./twocapitals-vs-bordered/twocapitals-vs-br-200.png)](twocapitals-vs-bordered) | Две столицы с логотипом VisualStudio с белой рамкой |
 | [![Two Capitals spherical yin and yang](./twocapitals/twocapitals-yy-200.png)](./twocapitals/twocapitals-yy-800.png) | Две столицы как объёмные инь и ян |
 | [![Two Capitals flat yin and yang](./twocapitals/twocapitals-yy-flat-200.png)](./twocapitals/twocapitals-yy-flat-800.png) | Две столицы как плоские инь и ян |
+
+## Четыре команды
+
+Дизайнерские этюды на тему SpbDotNet, MskDotNet, SarDotNet и KryDotNet сообществ.
+
+| Предпросмотр        | Информация         |
+| ------------------- |--------------------|
+| [![Four Team squared puzzle](./fourteam-puzzle/fourteam-puzzle-squared-200.png)](fourteam-puzzle) | Четыре команды в квадратной мозайке |
+| [![Four Team endless puzzle](./fourteam-puzzle/fourteam-puzzle-endless-200.png)](fourteam-puzzle) | Четыре команды в бесконечной мозайке |
