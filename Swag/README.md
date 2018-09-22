@@ -30,6 +30,8 @@
 | [![KznDotNet squared logo](./kzndotnet-squared-logo/kzndotnet-squared-logo-200.png)](kzndotnet-squared-logo) | Логотип KznDotNet |
 | [![KznDotNet bordered squared logo](./kzndotnet-squared-logo-bordered/kzndotnet-squared-logo-br-200.png)](kzndotnet-squared-logo-bordered) | Логотип KznDotNet с белой рамкой |
 | [![KznDotNet white squared logo](./kzndotnet-squared-logo-white/kzndotnet-squared-logo-white-200.png)](kzndotnet-squared-logo-white) | Логотип KznDotNet на прозрачном фоне |
+| [![NskDotNet squared logo](./nskdotnet-squared-logo/nskdotnet-squared-logo-200.png)](nskdotnet-squared-logo) | Логотип NskDotNet |
+| [![NskDotNet bordered squared logo](./nskdotnet-squared-logo-bordered/nskdotnet-squared-logo-br-200.png)](nskdotnet-squared-logo-bordered) | Логотип NskDotNet с белой рамкой |
 | [![EkbDotNet squared logo](./ekbdotnet-squared-logo/ekbdotnet-squared-logo-200.png)](ekbdotnet-squared-logo) | Логотип EkbDotNet |
 | [![EkbDotNet bordered squared logo](./ekbdotnet-squared-logo-bordered/ekbdotnet-squared-logo-br-200.png)](ekbdotnet-squared-logo-bordered) | Логотип EkbDotNet с белой рамкой |
 | [![EkbDotNet white squared logo](./ekbdotnet-squared-logo-white/ekbdotnet-squared-logo-white-200.png)](ekbdotnet-squared-logo-white) | Логотип EkbDotNet на прозрачном фоне |
