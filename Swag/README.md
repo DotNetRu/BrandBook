@@ -51,11 +51,13 @@
 | [![Two Capitals spherical yin and yang](./twocapitals/twocapitals-yy-200.png)](./twocapitals/twocapitals-yy-800.png) | Две столицы как объёмные инь и ян |
 | [![Two Capitals flat yin and yang](./twocapitals/twocapitals-yy-flat-200.png)](./twocapitals/twocapitals-yy-flat-800.png) | Две столицы как плоские инь и ян |
 
-## Четыре команды
+## Бригада
 
-Дизайнерские этюды на тему SpbDotNet, MskDotNet, SarDotNet и KryDotNet сообществ.
+Дизайнерские этюды на тему всех сообществ (по мере появления).
 
 | Предпросмотр        | Информация         |
 | ------------------- |--------------------|
-| [![Four Team squared puzzle](./fourteam-puzzle/fourteam-puzzle-squared-200.png)](fourteam-puzzle) | Четыре команды в квадратной мозайке |
-| [![Four Team endless puzzle](./fourteam-puzzle/fourteam-puzzle-endless-200.png)](fourteam-puzzle) | Четыре команды в бесконечной мозайке |
+| [![Four Team squared puzzle](./puzzle/fourteam-puzzle-squared-200.png)](puzzle) | Четыре команды в квадратной мозайке |
+| [![Four Team endless puzzle](./puzzle/fourteam-puzzle-endless-200.png)](puzzle) | Четыре команды в бесконечной мозайке |
+| [![Six Team squared puzzle](./puzzle/sixteam-puzzle-squared-200.png)](puzzle) | Шесть команд в квадратной мозайке |
+| [![Six Team endless puzzle](./puzzle/sixteam-puzzle-endless-200.png)](puzzle) | Шесть команд в бесконечной мозайке |
