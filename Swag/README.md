@@ -39,6 +39,8 @@
 | [![OmsDotNet bordered squared logo](./omsdotnet-squared-logo-bordered/omsdotnet-squared-logo-br-200.png)](omsdotnet-squared-logo-bordered) | Логотип OmsDotNet с белой рамкой |
 | [![UfaDotNet squared logo](./ufadotnet-squared-logo/ufadotnet-squared-logo-200.png)](ufadotnet-squared-logo) | Логотип UfaDotNet |
 | [![UfaDotNet bordered squared logo](./ufadotnet-squared-logo-bordered/ufadotnet-squared-logo-br-200.png)](ufadotnet-squared-logo-bordered) | Логотип UfaDotNet с белой рамкой |
+| [![NnvDotNet squared logo](./nnvdotnet-squared-logo/nnvdotnet-squared-logo-200.png)](nnvdotnet-squared-logo) | Логотип NnvDotNet |
+| [![NnvDotNet bordered squared logo](./nnvdotnet-squared-logo-bordered/nnvdotnet-squared-logo-br-200.png)](nnvdotnet-squared-logo-bordered) | Логотип NnvDotNet с белой рамкой |
 
 ## Две столицы
 
