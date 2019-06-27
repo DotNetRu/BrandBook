@@ -4,7 +4,7 @@
 
 - Логотипы без рамки хорошо подходят для светлого фона.
 - Логотипы с белой рамкой лучше использовать для тёмных фонов.
-- Белые логотипы на прозрачной подложке хорошо смотрятся на тёмном фоне. 
+- Белые логотипы на прозрачной подложке идеальны когда нужно использовать существующий фон. 
 
 ## Логотипы
 
@@ -41,6 +41,8 @@
 | [![UfaDotNet bordered squared logo](./ufadotnet-squared-logo-bordered/ufadotnet-squared-logo-br-200.png)](ufadotnet-squared-logo-bordered) | Логотип UfaDotNet с белой рамкой |
 | [![NnvDotNet squared logo](./nnvdotnet-squared-logo/nnvdotnet-squared-logo-200.png)](nnvdotnet-squared-logo) | Логотип NnvDotNet |
 | [![NnvDotNet bordered squared logo](./nnvdotnet-squared-logo-bordered/nnvdotnet-squared-logo-br-200.png)](nnvdotnet-squared-logo-bordered) | Логотип NnvDotNet с белой рамкой |
+| [![PnzDotNet squared logo](./pnzdotnet-squared-logo/pnzdotnet-squared-logo-200.png)](pnzdotnet-squared-logo) | Логотип PnzDotNet |
+| [![PnzDotNet bordered squared logo](./pnzdotnet-squared-logo-bordered/pnzdotnet-squared-logo-br-200.png)](pnzdotnet-squared-logo-bordered) | Логотип PnzDotNet с белой рамкой |
 | [![SamDotNet squared logo](./samdotnet-squared-logo/samdotnet-squared-logo-200.png)](samdotnet-squared-logo) | Логотип SamDotNet |
 | [![SamDotNet bordered squared logo](./samdotnet-squared-logo-bordered/samdotnet-squared-logo-br-200.png)](samdotnet-squared-logo-bordered) | Логотип SamDotNet с белой рамкой |
 
