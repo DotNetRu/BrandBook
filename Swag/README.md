@@ -45,6 +45,8 @@
 | [![PnzDotNet bordered squared logo](./pnzdotnet-squared-logo-bordered/pnzdotnet-squared-logo-br-200.png)](pnzdotnet-squared-logo-bordered) | Логотип PnzDotNet с белой рамкой |
 | [![SamDotNet squared logo](./samdotnet-squared-logo/samdotnet-squared-logo-200.png)](samdotnet-squared-logo) | Логотип SamDotNet |
 | [![SamDotNet bordered squared logo](./samdotnet-squared-logo-bordered/samdotnet-squared-logo-br-200.png)](samdotnet-squared-logo-bordered) | Логотип SamDotNet с белой рамкой |
+| [![KrdDotNet squared logo](./krddotnet-squared-logo/krddotnet-squared-logo-200.png)](krddotnet-squared-logo) | Логотип KrdDotNet |
+| [![KrdDotNet bordered squared logo](./krddotnet-squared-logo-bordered/krddotnet-squared-logo-br-200.png)](krddotnet-squared-logo-bordered) | Логотип KrdDotNet с белой рамкой |
 
 ## Две столицы
 
