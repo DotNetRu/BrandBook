@@ -30,32 +30,40 @@
 
 На светлом фоне используйте логотип без рамки. Подходит для создания круглых миниатюр в соц. сетях.
 
+| .                                                            |
+| :----------------------------------------------------------: |
+| .                                                            |
 | ![Квадратный логотип KrdDotNet](krddotnet-logo-squared-200.png) |
-| :----: |
 | Скачать: [SVG](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared.eps) |
 
 #### Квадрат с рамкой
 
 На тёмном фоне используйте логотип с рамкой.
 
+| .                                                            |
+| :----------------------------------------------------------: |
+| .                                                            |
 | ![Квадратный логотип KrdDotNet с рамкой](krddotnet-logo-squared-bordered-200.png) |
-| :----: |
 | Скачать: [SVG](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-bordered.svg), [PNG×200](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-bordered-800.png), [EPS](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-bordered.eps) |
 
 #### Квадрат на прозрачном фоне
 
 На тёмном цветном фоне используйте прозрачный логотип.
 
+| .                                                            |
+| :----------------------------------------------------------: |
+| .                                                            |
 | ![Квадратный прозрачный логотип KrdDotNet](krddotnet-logo-squared-white-200.png) |
-| :----: |
 | Скачать: [SVG](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-white.svg), [PNG×200](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-white-200.png), [PNG×800](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-white-800.png), [EPS](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-white.eps) |
 
 #### Квадрат на прозрачном фоне с рамкой
 
 На тёмном цветном фоне используйте прозрачный логотип с рамкой.
 
+| .                                                            |
+| :----------------------------------------------------------: |
+| .                                                            |
 | ![Квадратный прозрачный логотип KrdDotNet с рамкой](krddotnet-logo-squared-white-bordered-200.png)  |
-| :---: |
 | Скачать: [SVG](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-white-bordered.svg), [PNG×200](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-white-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-white-bordered-800.png), [EPS](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Krd/krddotnet-logo-squared-white-bordered.eps) |
 
 ## Шрифты
