@@ -30,9 +30,9 @@
 
 На светлом фоне используйте логотип без рамки. Подходит для создания круглых миниатюр в соц. сетях.
 
-| .                                                            |
-| :----------------------------------------------------------: |
-| .                                                            |
+|       |
+| :---: |
+|       |
 | ![Квадратный логотип DotNetRu](dotnetru-logo-squared-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared.eps) |
 
@@ -40,9 +40,9 @@
 
 На тёмном фоне используйте логотип с рамкой.
 
-| .                                                            |
-| :----------------------------------------------------------: |
-| .                                                            |
+|       |
+| :---: |
+|       |
 | ![Квадратный логотип DotNetRu с рамкой](dotnetru-logo-squared-bordered-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-bordered.svg), [PNG×200](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-bordered-800.png), [EPS](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-bordered.eps) |
 
@@ -50,9 +50,9 @@
 
 На тёмном цветном фоне используйте прозрачный логотип.
 
-| .                                                            |
-| :----------------------------------------------------------: |
-| .                                                            |
+|       |
+| :---: |
+|       |
 | ![Квадратный прозрачный логотип DotNetRu](dotnetru-logo-squared-white-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-white.svg), [PNG×200](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-white-200.png), [PNG×800](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-white-800.png), [EPS](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-white.eps) |
 
@@ -60,9 +60,9 @@
 
 На тёмном цветном фоне используйте прозрачный логотип с рамкой.
 
-| .                                                            |
-| :----------------------------------------------------------: |
-| .                                                            |
+|       |
+| :---: |
+|       |
 | ![Квадратный прозрачный логотип DotNetRu с рамкой](dotnetru-logo-squared-white-bordered-200.png)  |
 | Скачать: [SVG](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-white-bordered.svg), [PNG×200](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-white-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-white-bordered-800.png), [EPS](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Ru/dotnetru-logo-squared-white-bordered.eps) |
 
