@@ -34,7 +34,7 @@
 | :---: |
 |       |
 | ![Квадратный логотип NnvDotNet](nnvdotnet-logo-squared-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared.eps) |
+| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared.eps) |
 
 #### Квадрат с рамкой
 
@@ -44,7 +44,7 @@
 | :---: |
 |       |
 | ![Квадратный логотип NnvDotNet с рамкой](nnvdotnet-logo-squared-bordered-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-bordered.svg), [PNG×200](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-bordered-800.png), [EPS](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-bordered.eps) |
+| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-bordered.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-bordered-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-bordered.eps) |
 
 #### Квадрат на прозрачном фоне
 
@@ -54,7 +54,7 @@
 | :---: |
 |       |
 | ![Квадратный прозрачный логотип NnvDotNet](nnvdotnet-logo-squared-white-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white.svg), [PNG×200](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white-200.png), [PNG×800](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white-800.png), [EPS](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white.eps) |
+| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white.eps) |
 
 #### Квадрат на прозрачном фоне с рамкой
 
@@ -63,8 +63,8 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный прозрачный логотип NnvDotNet с рамкой](nnvdotnet-logo-squared-white-bordered-200.png)  |
-| Скачать: [SVG](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white-bordered.svg), [PNG×200](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white-bordered-800.png), [EPS](https://raw.githubusercontent.com/AnatolyKulakov/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white-bordered.eps) |
+| ![Квадратный прозрачный логотип NnvDotNet с рамкой](nnvdotnet-logo-squared-white-bordered-200.png) |
+| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white-bordered.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white-bordered-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nnv/nnvdotnet-logo-squared-white-bordered.eps) |
 
 ## Шрифты
 
