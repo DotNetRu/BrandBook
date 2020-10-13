@@ -33,7 +33,7 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный логотип NskDotNet](nskdotnet-logo-squared-200.png) |
+| ![Квадрат](nskdotnet-logo-squared-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared.eps) |
 
 #### Квадрат с рамкой
@@ -43,7 +43,7 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный логотип NskDotNet с рамкой](nskdotnet-logo-squared-bordered-200.png) |
+| ![Квадрат с рамкой](nskdotnet-logo-squared-bordered-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-bordered.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-bordered-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-bordered.eps) |
 
 #### Квадрат на прозрачном фоне
@@ -53,7 +53,7 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный прозрачный логотип NskDotNet](nskdotnet-logo-squared-white-200.png) |
+| ![Квадрат на прозрачном фоне](nskdotnet-logo-squared-white-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-white.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-white-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-white-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-white.eps) |
 
 #### Квадрат на прозрачном фоне с рамкой
@@ -63,7 +63,7 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный прозрачный логотип NskDotNet с рамкой](nskdotnet-logo-squared-white-bordered-200.png) |
+| ![Квадрат на прозрачном фоне с рамкой](nskdotnet-logo-squared-white-bordered-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-white-bordered.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-white-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-white-bordered-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Nsk/nskdotnet-logo-squared-white-bordered.eps) |
 
 ## Шрифты

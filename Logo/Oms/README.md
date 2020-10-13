@@ -33,7 +33,7 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный логотип OmsDotNet](omsdotnet-logo-squared-200.png) |
+| ![Квадрат](omsdotnet-logo-squared-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared.eps) |
 
 #### Квадрат с рамкой
@@ -43,7 +43,7 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный логотип OmsDotNet с рамкой](omsdotnet-logo-squared-bordered-200.png) |
+| ![Квадрат с рамкой](omsdotnet-logo-squared-bordered-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-bordered.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-bordered-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-bordered.eps) |
 
 #### Квадрат на прозрачном фоне
@@ -53,7 +53,7 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный прозрачный логотип OmsDotNet](omsdotnet-logo-squared-white-200.png) |
+| ![Квадрат на прозрачном фоне](omsdotnet-logo-squared-white-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-white.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-white-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-white-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-white.eps) |
 
 #### Квадрат на прозрачном фоне с рамкой
@@ -63,7 +63,7 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный прозрачный логотип OmsDotNet с рамкой](omsdotnet-logo-squared-white-bordered-200.png) |
+| ![Квадрат на прозрачном фоне с рамкой](omsdotnet-logo-squared-white-bordered-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-white-bordered.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-white-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-white-bordered-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Oms/omsdotnet-logo-squared-white-bordered.eps) |
 
 ## Шрифты

@@ -33,7 +33,7 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный логотип PnzDotNet](pnzdotnet-logo-squared-200.png) |
+| ![Квадрат](pnzdotnet-logo-squared-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared.eps) |
 
 #### Квадрат с рамкой
@@ -43,7 +43,7 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный логотип PnzDotNet с рамкой](pnzdotnet-logo-squared-bordered-200.png) |
+| ![Квадрат с рамкой](pnzdotnet-logo-squared-bordered-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-bordered.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-bordered-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-bordered.eps) |
 
 #### Квадрат на прозрачном фоне
@@ -53,7 +53,7 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный прозрачный логотип PnzDotNet](pnzdotnet-logo-squared-white-200.png) |
+| ![Квадрат на прозрачном фоне](pnzdotnet-logo-squared-white-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-white.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-white-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-white-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-white.eps) |
 
 #### Квадрат на прозрачном фоне с рамкой
@@ -63,7 +63,7 @@
 |       |
 | :---: |
 |       |
-| ![Квадратный прозрачный логотип PnzDotNet с рамкой](pnzdotnet-logo-squared-white-bordered-200.png) |
+| ![Квадрат на прозрачном фоне с рамкой](pnzdotnet-logo-squared-white-bordered-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-white-bordered.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-white-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-white-bordered-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Pnz/pnzdotnet-logo-squared-white-bordered.eps) |
 
 ## Шрифты
