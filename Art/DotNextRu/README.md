@@ -2,7 +2,6 @@
 
 #### dotnextru-squared-logo-br
 
-
 |       |
 | :---: |
 |       |
