@@ -31,7 +31,7 @@
 | :---: |
 |       |
 | ![Квадрат](dotnetmore-logo-squared-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/pod-logo/Logo/More/dotnetmore-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/pod-logo/Logo/More/dotnetmore-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/pod-logo/Logo/More/dotnetmore-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/pod-logo/Logo/More/dotnetmore-logo-squared.eps) |
+| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/More/dotnetmore-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/More/dotnetmore-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/More/dotnetmore-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/More/dotnetmore-logo-squared.eps) |
 
 #### Квадрат с рамкой
 
@@ -41,5 +41,5 @@
 | :---: |
 |       |
 | ![Квадрат с рамкой](dotnetmore-logo-squared-bordered-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/pod-logo/Logo/More/dotnetmore-logo-squared-bordered.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/pod-logo/Logo/More/dotnetmore-logo-squared-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/pod-logo/Logo/More/dotnetmore-logo-squared-bordered-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/pod-logo/Logo/More/dotnetmore-logo-squared-bordered.eps) |
+| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/More/dotnetmore-logo-squared-bordered.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/More/dotnetmore-logo-squared-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/More/dotnetmore-logo-squared-bordered-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/More/dotnetmore-logo-squared-bordered.eps) |
 

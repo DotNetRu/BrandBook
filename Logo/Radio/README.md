@@ -31,5 +31,5 @@
 | :---: |
 |       |
 | ![Квадрат](radiodotnet-logo-squared-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/pod-logo/Logo/Radio/radiodotnet-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/pod-logo/Logo/Radio/radiodotnet-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/pod-logo/Logo/Radio/radiodotnet-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/pod-logo/Logo/Radio/radiodotnet-logo-squared.eps) |
+| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Radio/radiodotnet-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Radio/radiodotnet-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Radio/radiodotnet-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Radio/radiodotnet-logo-squared.eps) |
 
