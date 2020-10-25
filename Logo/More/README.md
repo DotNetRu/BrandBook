@@ -1,4 +1,4 @@
-﻿# DotNet & More
+﻿# Подкаст DotNet & More
 
 Подкаст о DotNet разработке и не только. Официальный сайт [dotnetmore.ru](https://dotnetmore.ru/). Хэштег в социальных сетях _#dotnetmore_.
 
