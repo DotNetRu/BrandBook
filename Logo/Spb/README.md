@@ -34,7 +34,7 @@
 | :---: |
 |       |
 | ![Квадрат](spbdotnet-logo-squared-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared.eps) |
+| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared.eps) |
 
 #### Квадрат с рамкой
 
@@ -44,7 +44,7 @@
 | :---: |
 |       |
 | ![Квадрат с рамкой](spbdotnet-logo-squared-bordered-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-bordered.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-bordered-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-bordered.eps) |
+| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-bordered.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-bordered-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-bordered.eps) |
 
 #### Квадрат на прозрачном фоне
 
@@ -54,7 +54,7 @@
 | :---: |
 |       |
 | ![Квадрат на прозрачном фоне](spbdotnet-logo-squared-white-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-white.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-white-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-white-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-white.eps) |
+| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-white.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-white-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-white-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-white.eps) |
 
 #### Квадрат на прозрачном фоне с рамкой
 
@@ -64,7 +64,7 @@
 | :---: |
 |       |
 | ![Квадрат на прозрачном фоне с рамкой](spbdotnet-logo-squared-white-bordered-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-white-bordered.svg), [PNG×200](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-white-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-white-bordered-800.png), [EPS](https://raw.githubusercontent.com/kulakovt/SpbDotNet/master/Logo/Spb/spbdotnet-logo-squared-white-bordered.eps) |
+| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-white-bordered.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-white-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-white-bordered-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Spb/spbdotnet-logo-squared-white-bordered.eps) |
 
 ## Шрифты
 
