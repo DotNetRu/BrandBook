@@ -69,6 +69,26 @@
 | ![Квадрат на прозрачном фоне с рамкой](ekbdotnet-logo-squared-white-bordered-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ekb/ekbdotnet-logo-squared-white-bordered.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ekb/ekbdotnet-logo-squared-white-bordered-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ekb/ekbdotnet-logo-squared-white-bordered-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ekb/ekbdotnet-logo-squared-white-bordered.eps) |
 
+#### Чёрный квадрат
+
+Используйте для организационного направления.
+
+|       |
+| :---: |
+|       |
+| ![Чёрный квадрат](ekbdotnet-logo-squared-black-200.png) |
+| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ekb/ekbdotnet-logo-squared-black.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ekb/ekbdotnet-logo-squared-black-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ekb/ekbdotnet-logo-squared-black-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ekb/ekbdotnet-logo-squared-black.eps) |
+
+#### Зелёный квадрат
+
+Используйте для учебного направления.
+
+|       |
+| :---: |
+|       |
+| ![Зелёный квадрат](ekbdotnet-logo-squared-green-200.png) |
+| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ekb/ekbdotnet-logo-squared-green.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ekb/ekbdotnet-logo-squared-green-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ekb/ekbdotnet-logo-squared-green-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ekb/ekbdotnet-logo-squared-green.eps) |
+
 ## Шрифты
 
 В нашем логотипе используется шрифт Consolas ™. Это шрифт по-умолчанию который используют .NET разработчики в своих редакторах кода.
