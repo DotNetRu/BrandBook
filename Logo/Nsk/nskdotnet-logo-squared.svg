@@ -1,4 +1,4 @@
-<svg width="888" height="888" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 888 888" xmlns="http://www.w3.org/2000/svg">
   <rect id="bg" x="0" y="0" width="888" height="888" fill="#68217a"/>
   <g id="tx" fill="#fff">
     <path d="m523 301h-23.2l-38.1-81.5-11-26.2v107.7h-16.6v-130.7h22.9l36.3 77.2 13.1 29.9v-107.1h16.6z"/>
