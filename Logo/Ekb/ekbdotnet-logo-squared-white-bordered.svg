@@ -1,4 +1,4 @@
-<svg width="920" height="920" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 920 920" xmlns="http://www.w3.org/2000/svg">
   <rect id="br" x="8" y="8" width="904" height="904" stroke="#fff" stroke-width="16" fill-opacity="0"/>
   <g id="tx" fill="#fff">
     <path d="m532 317h-74.3v-130.7h74.3v15h-56.5v40.5h54.3v15h-54.3v45h56.5z"/>
