@@ -79,15 +79,15 @@
 | ![Чёрный квадрат](radiodotnet-logo-squared-black-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Radio/radiodotnet-logo-squared-black.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Radio/radiodotnet-logo-squared-black-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Radio/radiodotnet-logo-squared-black-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Radio/radiodotnet-logo-squared-black.eps) |
 
-#### Зелёный квадрат
+#### Золотой квадрат
 
-Используйте для учебного направления.
+Используйте для коммерческого направления.
 
 |       |
 | :---: |
 |       |
-| ![Зелёный квадрат](radiodotnet-logo-squared-green-200.png) |
-| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Radio/radiodotnet-logo-squared-green.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Radio/radiodotnet-logo-squared-green-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Radio/radiodotnet-logo-squared-green-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Radio/radiodotnet-logo-squared-green.eps) |
+| ![Золотой квадрат](radiodotnet-logo-squared-gold-200.png) |
+| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Radio/radiodotnet-logo-squared-gold.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Radio/radiodotnet-logo-squared-gold-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Radio/radiodotnet-logo-squared-gold-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Radio/radiodotnet-logo-squared-gold.eps) |
 
 ## Шрифты
 
