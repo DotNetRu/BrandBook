@@ -71,7 +71,7 @@
 
 #### Чёрный квадрат
 
-Используйте для организационного направления.
+Для внутреннего использования на организационном направлении.
 
 |       |
 | :---: |
@@ -81,13 +81,23 @@
 
 #### Зелёный квадрат
 
-Используйте для образовательного направления.
+Для внутреннего использования на образовательном направлении.
 
 |       |
 | :---: |
 |       |
 | ![Зелёный квадрат](dotnetru-logo-squared-green-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ru/dotnetru-logo-squared-green.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ru/dotnetru-logo-squared-green-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ru/dotnetru-logo-squared-green-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ru/dotnetru-logo-squared-green.eps) |
+
+#### Синий квадрат
+
+Для внутреннего использования на краудсорсинг направлении.
+
+|       |
+| :---: |
+|       |
+| ![Синий квадрат](dotnetru-logo-squared-blue-200.png) |
+| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ru/dotnetru-logo-squared-blue.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ru/dotnetru-logo-squared-blue-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ru/dotnetru-logo-squared-blue-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/Ru/dotnetru-logo-squared-blue.eps) |
 
 ## Шрифты
 
