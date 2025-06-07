@@ -79,6 +79,16 @@
 | ![Чёрный квадрат](bookclub-logo-squared-black-200.png) |
 | Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-black.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-black-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-black-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-black.eps) |
 
+#### Зелёный квадрат
+
+Для внутреннего использования на образовательном направлении.
+
+|       |
+| :---: |
+|       |
+| ![Зелёный квадрат](bookclub-logo-squared-green-200.png) |
+| Скачать: [SVG](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-green.svg), [PNG×200](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-green-200.png), [PNG×800](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-green-800.png), [EPS](https://raw.githubusercontent.com/DotNetRu/BrandBook/master/Logo/BookClub/bookclub-logo-squared-green.eps) |
+
 ## Шрифты
 
 В нашем логотипе используется шрифт Consolas ™. Это шрифт по-умолчанию который используют .NET разработчики в своих редакторах кода.
